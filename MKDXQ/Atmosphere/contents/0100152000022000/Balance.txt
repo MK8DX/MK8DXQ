@@ -1,0 +1,113 @@
+Ver. 2.4.0 (Released July 11, 2023)
+Support for DLC
+Now supports paid DLC: Mario Kart 8 Deluxe – Booster Course Pass, Wave 5 (two cups, eight courses, and three characters).
+General
+Improved the performance of some characters and vehicle customizations.
+Adjusted the invincibility time of some characters.
+Adjusted random item selection method in races where Custom Items is set, for when there are four players or less.
+Expanded range for when a warning displays when a Red Shell or Spiny Shell approaches from behind.
+Made it so that warnings about a Red Shell or Spiny Shell will be displayed with priority over other warnings.
+Made it so that a warning is not displayed when a Red Shell is targeting opponents.
+Made it so that L/R button operation on the class selection screen and course selection screen in the Grand Prix can be conducted on touchscreen as well.
+Lowered the appearance rate of Mirror and 200cc races in Worldwide and Regional settings.
+Fixed Issues
+Fixed an issue where a communication error occurs when a character catches a boomerang at the same time that a Boo brings an item.
+Fixed an issue where, when equipping an item and catching a boomerang at the same time, the player could not throw that item.
+Fixed an issue where the graph for the Mii Heavy weight class’s parameters didn’t match the actual abilities.
+Fixed an issue where a warning would not appear when an opponent used a Bullet Bill in online matches.
+Made it so the kart doesn’t spin or crash when running into an obstruction if the player uses a Super Star, Bullet Bill or Boo at that same time.
+Fixed an issue where the kart would get stuck between a cliff and small mushroom and be unable to move in Wii Mushroom Gorge.
+Fixed an issue where the player would go off the course when transformed as Bullet Bill right in front of the goal in GBA Riverside Park.
+Ver. 2.3.0 (Released March 8, 2023)
+Support for DLC
+Now supports paid DLC: Mario Kart 8 Deluxe – Booster Course Pass, Wave 4 (two cups, eight courses, and one character, Birdo).
+General
+Improved the performance of some characters and vehicle customizations.
+Made it so that the player can see the rear view mirror when spinning, crashing, or changed into Bullet Bill.
+Made it so, if the player uses a Super Star or Boo at the same time that they are hit by Lightning, their kart will not crash or become small.
+Made it so, when jumping from a Whomp in Tour Berlin Byways, karts can leap over the fence.
+Added Golden Mushroom to Custom Items in Renegade Roundup.
+Added “Booster Course Pass” button to main menu. If a player does not have the Booster Course Pass, a link to the Nintendo eShop will be displayed.
+Fixed Issues
+Fixed an issue where, when the player’s kart became small after being hit by lightning, it would slip into the ground.
+Fixed an issue where, when the player’s kart ran into a wall, they would be carried over by Lakitu even though they had not left the course.
+Fixed an issue where the player character would not be able to hit an opponent with a red shell when that opponent was jumping on a half-pipe.
+Fixed an issue where the player character could not drift after jumping and landing in a half pipe.
+Fixed an issue so that the player can use another item other than Boo right after using Boo.
+Fixed an issue where the player could not throw a Boomerang after catching it and it entered the second item slot.
+Fixed an issue where, when a player character hit the Blooper in an opponent’s Crazy 8, they would have ink squirted on them even though they are using the Super Star.
+Fixed an issue where, when the player stops looking at the rear view mirror, the ink would disappear momentarily even though they had Blooper ink on them.
+Fixed an issue where, when player is hit with a red shell at the same time as changing into Bullet Bill, they would go off the course.
+Fixed an issue where, at the escalator in Wii Coconut Mall, there would be a communication error when a character could not move forward.
+Fixed an issue when changed into Bullet Bill in N64 Kalimari Desert, where the character would slip into the ground.
+Fixed an issue where the character would get stuck on the bridge posts right before and after the starting line in Tour London Loop.
+Fixed an issue where, on wavy floors in 3DS Rainbow Road, the character could be pushed way off the course.
+Ver. 2.2.1 (Released December 21, 2022)
+Fixed Issues
+Fixed issue where, when playing online in Berlin Byways, the image would get choppy.
+Fixed issue where, when playing in London Loop, player is carried in by Lakitu after falling off of course and they were not returned to the appropriate location.
+Ver. 2.2.0 (Released December 7, 2022)
+Support for DLC
+Now supports paid DLC: Mario Kart 8 Deluxe – Booster Course Pass, Wave 3 (two cups and eight courses).
+General
+Added “Custom Items” to item Rules.
+This is a feature that lets you decide which items appear.
+This is supported in VS Race, Balloon Battle, Coin Runners, Shine Thief, Renegade Roundup, Playing with friends, Tournaments, and Wireless Play.
+Items that have not been set to appear may still appear according to the connection environment and game situation.
+When getting struck by lightning while gliding through the air, the glider no longer closes.
+The period of invincibility after spinning or crashing now changes, depending on the driver or machine parts.
+When a user cannot download any new ghost data, they can now delete all the ghost data they downloaded until then.
+Deleted “Recommended” in Tournaments.
+Fixed Issues
+Fixed an issue where coins would not be added when touching an opponents’ Crazy Eight coin.
+Fixed an issue where there was a communication error when using the item Boo.
+Fixed an issue where using the Super Horn would not hit more than one opponent at the same time.
+Fixed an issue where images in SNES Mario Circuit 3 would look distorted.
+Fixed an issue where a player could not acquire multiple items in a row in GBA Snow Land.
+Fixed an issue where points would not be added to a member list, when spectating an online match.
+Fixed an issue where, when selecting a team, the COM characters that actually play in the game were not the same as shown on selection screen.
+Fixed an issue where the warning sound was not playing when a Red Shell or Spiny Shell comes from behind.
+Other adjustments and corrections were made to improve the gameplay experience.
+Ver. 2.1.0 (Released August 4, 2022)
+Support for DLC
+Now supports paid DLC: Mario Kart 8 Deluxe – Booster Course Pass, Wave 2 (two cups and eight courses).
+General
+Increased the number of ghosts you can download from 16 to 32.
+Adjusted the extent to which a vehicle is thrown, depending on its weight.
+Further shortened the time it takes for item boxes to regenerate after another player takes them.
+Shortened the time it takes for one player to be able to pick up a coin that another player has dropped.
+Made it so that it is easier to face the way forward in mid-air when using Smart Steering.
+The cars that the Shy Guys are riding in in Wii Coconut Mall now move from time to time in all modes other than the Time Trial mode.
+Fixed Issues
+Fixed issue where player could not choose a DLC course even though a player in the lobby in “Friends” has the Booster Course Pass.
+Fixed issue where player did not receive coins even though they used the Feather in Coin Runners to steal a rival’s coins.
+Fixed issue where player could receive two items from one item box in N64 Toad's Turnpike.
+Ver. 2.0.0 (Released March 17, 2022)
+Support for DLC
+Now supports paid DLC: Mario Kart 8 Deluxe – Booster Course Pass, Wave 1 (two cups and eight courses)
+If someone in the lobby has the “Booster Course Pass,” all players can select one of the pass courses.
+This supports “Friends,” “Wireless Play,” and “LAN Play.”
+Starting March 21st, you can select course from the Booster Course Pass in online play.
+Supports “Worldwide,” “Regional,” and “Tournaments.”
+Even if the player does not own the “Booster Course Pass,” they can play courses from the pass randomly.
+General
+Shortened the time it takes for an Item Box to regenerate when it gets taken by someone else.
+Fixed Issues
+Fixed an issue where a communication error occurs when 12 people matched during online play.
+You need to download the latest update data in order to play online.
+If you download the latest update data, you will not be able to do “Wireless Play” or LAN Play” with other players who are using data from a previous update.
+The update data contains fixes to issues that improve gameplay experience, and other content that is not listed here.
+In order to download the update data, you need enough space on your system memory or microSD Card.
+Ver. 1.7.2 (Released May 25, 2021)
+Addressed an issue that caused tournament points to be reset.
+Addressed an issue that caused match history with friends to be reset.
+Ver. 1.7.1 (Released January 23, 2019)
+Fixed an issue that caused the game to become unresponsive to any input except for the HOME Button.
+You will need to download this update to play with others online.
+After you download the latest update data, you will no longer be able to play over local wireless or LAN with others until they download the update as well.
+Ver. 1.7.0 (Released September 19, 2018)
+Now compatible with Toy-Con Car in Nintendo Labo Toy-Con 03: Vehicle Kit
+You can select which Toy-Con to use from “Toy-Con” settings in the main menu.
+Now compatible with the Nintendo Switch Online smartphone app.
+If the application is running on your device when you enter an online match, you will automatically receive a prompt on your smartphone asking if you would like to join a voice chat with your opponent.
+Worldwide, Regional, Friends, and Tournaments allow you to use this function.

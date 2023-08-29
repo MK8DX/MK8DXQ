@@ -1,0 +1,128 @@
+Mario Kart Stadium = Gu_FirstCircuit
+Water Park = Gu_WaterPark
+Sweet Sweet Canyon = Gu_Cake
+Thwomp Ruins = Gu_DossunIseki
+
+Mario Circuit = Gu_MarioCircuit
+Toad Harbor = Gu_City
+Twisted Mansion = Gu_HorrorHouse
+Shy Guy Falls = Gu_Expert
+
+Sunshine Airport = Gu_Airport
+Dolphin Shoals = Gu_Ocean
+Electrodrome = Gu_Techno
+Mount Wario = Gu_SnowMountain
+
+Cloudtop Cruise = Gu_Cloud
+Bone-Dry Dunes = Gu_Desert
+Bowser's Castle = Gu_BowserCastle
+Rainbow Road = Gu_RainbowRoad
+
+Wii Moo Moo Meadows = Gwii_MooMooMeadows
+GBA Mario Circuit = Gagb_MarioCircuit
+DS Cheep Cheep Beach = Gds_PukupukuBeach
+N64 Toad's Turnpike = G64_KinopioHighway
+
+GCN Dry Dry Desert = Ggc_DryDryDesert
+SNES Donut Plains 3 = Gsfc_DonutsPlain3
+N64 Royal Raceway = G64_PeachCircuit
+3DS DK Jungle = G3ds_DKJungle
+
+DS Wario Stadium = Gds_WarioStadium
+GCN Sherbet Land = Ggc_SherbetLand
+3DS Music Park = G3ds_MusicPark
+N64 Yoshi Valley = G64_YoshiValley
+
+DS Tick-Tock Clock = Gds_TickTockClock
+3DS Piranha Plant Slide = G3ds_PackunSlider
+Wii Grumble Volcano = Gwii_GrumbleVolcano
+N64 Rainbow Road = G64_RainbowRoad
+
+GCN Yoshi Circuit = Dgc_YoshiCircuit
+Excitebike = Du_ExciteBike
+Dragon Driftway = Du_DragonRoad
+Mute City = Du_MuteCity
+
+Wii Wario's Gold Mine = Dwii_WariosMine
+SNES Rainbow Road = Dsfc_RainbowRoad
+Ice Ice Outpost = Du_IcePark
+Hyrule Circuit = DuHyrule
+
+GCN Baby Park = Dgc_BabyPark
+GBA Cheese Land = Dagb_CheeseLand
+Wild Woods = Du_Woods
+Animal Crossing = Du_Animal_Summer/Autumn/Winter/Spring
+
+3DS Neo Bowser City = D3ds_NeoBowserCity
+GBA Ribbon Road = Dagb_RibbonRoad
+Super Bell Subway = Du_Metro
+Big Blue = Du_BigBlue
+
+Tour Paris Promenade = Cnsw_11
+3DS Toad Circuit = Cnsw_12
+N64 Choco Mountain = Cnsw_13
+Wii Coconut Mall = Cnsw_14
+
+Tour Tokyo Blur = Cnsw_15
+DS Shroom Ridge = Cnsw_16
+GBA Sky Garden = Cnsw_17
+Ninja Hideaway = Cnsw_18
+
+Tour New York Minute = Cnsw_21
+SNES Mario Circuit 3 = Cnsw_22
+N64 Kalmari Desert = Cnsw_23
+DS Waluigi Pinball = Cnsw_24
+
+Tour Sydney Sprint = Cnsw_25
+GBA Snow Land = Cnsw_26
+Wii Mushroom Gorge = Cnsw_27
+Sky-High Sundae = Cnsw_28
+
+Tour London Loop = Cnsw_31
+GBA Boo Lake = Cnsw_33
+3DS Rock Rock Mountain = Cnsw_34
+Wii Maple Treeway = Cnsw_62
+
+Tour Berlin Byways = Cnsw_35
+DS Peach Gardens = Cnsw_32
+Merry Mountain = Cnsw_37
+3DS Rainbow Road = Cnsw_38
+
+Tour Amsterdam Drift = Cnsw_41
+GBA Riverside Park = Cnsw_47
+Wii DK Summit = Cnsw_42
+Yoshi's Island = Cnsw_44
+
+Tour Bangkok Rush = Cnsw_55
+DS Mario Circuit = Cnsw_43
+GCN Waluigi Stadium = Cnsw_36
+Tour Singapore Speedway = Cnsw_45
+
+Tour Athens Dash = Cnsw_65
+GCN Daisy Crusier = Cnsw_46
+Wii Moonview Highway = Cnsw_63
+Squeaky Clean Sprint = Cnsw_58
+
+Tour Los Angeles Laps = Cnsw_48
+GBA Sunset Wilds = Cnsw_53
+Wii Koopa Cape = Cnsw_52
+Tour Vancouver Velocity = Cnsw_61
+
+???? = Cnsw_51
+???? = Cnsw_54
+???? = Cnsw_56
+???? = Cnsw_57
+
+???? = Cnsw_64
+???? = Cnsw_66
+???? = Cnsw_67
+???? = Cnsw_68
+
+Battle Stadium = Bu_BattleStadium
+Sweet Sweet Kingdom = Bu_Sweets
+Dragon Palace = Bu_Dojo
+Lunar Colony = Bu_Moon
+3DS Wuhu Town = B3ds_WuhuTown
+GCN Luigi's Mansion = Bgc_LuigiMansion
+SNES Battle Course 1 = Bsfc_Battle1
+Urchin Underpass = Bu_DekaLine
